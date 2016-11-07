@@ -1,4 +1,6 @@
-#HOW TO INSTALL:
+#REACT BOILERPLATE Cloning
+
+##HOW TO INSTALL:
 - npm install github:possiblecee/react-boilerplate-cli -g
-#HOW TO USE:
+##HOW TO USE:
 - run the following command: react-boilerplate-cli project-name
