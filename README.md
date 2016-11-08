@@ -4,4 +4,4 @@
 - npm install github:possiblecee/react-boilerplate-cli -g
 
 ##HOW TO USE:
-- run the following command: react-boilerplate-cli project-name
+- run the following command: create-react-app-redux project-name
